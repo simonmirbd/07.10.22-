@@ -141,9 +141,9 @@ http://iptvtree.net:8080/i4stream/d78b24fc9a18/85
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/49168
 #EXTINF:-1  ,Secret Circle
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/290298
-#EXTINF:-1  ,SeXation
+#EXTINF:-1  , SeXation
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/146437
-#EXTINF:-1  ,SEXTREME
+#EXTINF:-1  , SEXTREME
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/3309
 #EXTINF:-1  ,Sexy HOT
 http://iptvtree.net:8080/i4stream/d78b24fc9a18/3310
@@ -183,23 +183,23 @@ http://iptvtree.net:8080/i4stream/d78b24fc9a18/290291
 http://195.154.185.179/xx_nuart_tv/index.m3u8
 #EXTINF:-1 , Pinko Club
 http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo=\"https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg\" ,PinkErotic 1
+#EXTINF:-1  ,PinkErotic 1
 http://54.36.123.36:8080/PinkErotic1/index.m3u8
-#EXTINF:-1 tvg-logo=\"https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg\" group-title=\"Взрослые\",PinkErotic 2
+#EXTINF:-1 ¹,PinkErotic 2
 http://54.36.123.36:8080/PinkErotic2/index.m3u8
-#EXTINF:-1 tvg-logo=\"https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg\" ,PinkErotic 3
+#EXTINF:-1 ,PinkErotic 3
 http://54.36.123.36:8080/PinkErotic3/index.m3u8
-#EXTINF:-1 tvg-logo=\"https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg\" ,PinkErotic 4
+#EXTINF:1 ,PinkErotic 4
 http://54.36.123.36:8080/PinkErotic4/index.m3u8
-#EXTINF:-1 tvg-logo=\"https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg\" ,PinkErotic 5
+#EXTINF:-1 ,PinkErotic 5
 http://54.36.123.36:8080/PinkErotic5/index.m3u8
-#EXTINF:-1 tvg-logo=\"https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg\" ,PinkErotic 6
+#EXTINF:-1,PinkErotic 6
 http://54.36.123.36:8080/PinkErotic6/index.m3u8
-#EXTINF:-1 tvg-logo=\"https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg\" ,PinkErotic 7
+#EXTINF:-1 ,PinkErotic 7
 http://54.36.123.36:8080/PinkErotic7/index.m3u8
-#EXTINF:-1 tvg-logo=\"https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg\" ,PinkErotic 8
+#EXTINF:-1  ,PinkErotic 8
 http://54.36.123.36:8080/PinkErotic8/index.m3u8
-#EXTINF:-1 tvg-logo=\"https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg\" group-title=\"Взрослые\",Babestation
+#EXTINF:-1 , Babestation
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
  #EXTINF:-1, Exstasy HD
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
